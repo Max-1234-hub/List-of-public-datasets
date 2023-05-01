@@ -1,4 +1,4 @@
-# List of public datasets collected using wearable sensors for animal activity recognition.
+# List of public datasets collected using wearable sensors for animal activity recognition (2018-2023).
 
 | Order | Paper | Animals | Sensors | Links |
 |-------|-------|:-------:|---------|-------|
